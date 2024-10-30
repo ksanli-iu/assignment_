@@ -1,4 +1,4 @@
-# assignment_      ![logo](https://cdn.istanbul.edu.tr/FileHandler.ashx?f=RT1ayT3Bv0-0mo0RfJXTjA)
+# assignment_      ![istanbul_university_logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU17GWZ-lrjFw-cX4iNZso-DfKYtr8IluHM3nfKyyJQM1xi6Xf3Dj284Dj-_3oOSrkbSU&usqp=CAU)
 
 Student project for the 2024-2025 fall semester in CMB I
 
